@@ -14,6 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
@@ -27,4 +28,6 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
+=======
+>>>>>>> 6725ca17f90d34dff7497427a5406a4ba4644444
 </Project>

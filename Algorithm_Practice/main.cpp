@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //#include "Dijkstra.hpp"
 #include "Reference_test1.hpp"
 
@@ -32,3 +33,10 @@ int main() {
 
     return 0;
 }
+=======
+int main() {
+
+
+	return 0;
+}
+>>>>>>> 6725ca17f90d34dff7497427a5406a4ba4644444
